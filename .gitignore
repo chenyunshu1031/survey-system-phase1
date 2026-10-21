@@ -1,0 +1,25 @@
+.venv/
+.deps/
+.local-mongo-data/
+__pycache__/
+.pytest_cache/
+.env
+node_modules/
+dist/
+*.tsbuildinfo
+*.pyc
+*.log
+
+# Local working copies and generated previews
+/tmp/
+/output/
+~$*
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+.env.*
+!.env.example
+
+# Word report is submitted separately
+/reports/
