@@ -125,6 +125,6 @@ npm run build
 ## 第一阶段交付
 
 - [交付文件与实验要求逐项对照](docs/submission.md)
-- GitHub 仓库：[chenyunshu1031/survey-system-phase1](https://github.com/chenyunshu1031/survey-system-phase1)（私有）
+- GitHub 仓库：[chenyunshu1031/survey-system-phase1](https://github.com/chenyunshu1031/survey-system-phase1)
 
 提交目录包含代码、MongoDB schema、配置示例、正式说明、测试用例、验收截图和 AI 使用日志。Word 报告单独提交，不上传仓库。本地数据库、实际 `.env`、依赖目录、日志、旧报告及生成预览不纳入仓库。
